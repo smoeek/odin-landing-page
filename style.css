@@ -1,0 +1,19 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+background-color: #1f2937;
+}
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
